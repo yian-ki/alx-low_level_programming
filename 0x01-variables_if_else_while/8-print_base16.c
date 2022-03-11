@@ -17,7 +17,7 @@ putchar(a + '0');
 a++;
 }
 
-while (c <= f)
+while (c <= 'f')
 {
 putchar(c);
 c++;
