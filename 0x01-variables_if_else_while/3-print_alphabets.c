@@ -20,4 +20,6 @@ while ( c <='Z')
 	c++;
 }
 putchar('\n');
+
+return (0);
 }
